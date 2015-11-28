@@ -1,0 +1,11 @@
+abcdeg
+
+8
+ab -> c
+d -> eg
+c -> a
+acd -> b
+be -> c
+bc -> d
+cg -> bd
+ce -> ag
